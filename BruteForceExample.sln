@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.33530.505
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BruteForceExample", "BruteForceExample\BruteForceExample.csproj", "{45146C62-DB1B-4815-9B36-6B1BE8AAA026}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BruteForceExample", "BruteForceExample\BruteForceExample.csproj", "{45146C62-DB1B-4815-9B36-6B1BE8AAA026}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BruteForceProtectionTesting", "BruteForceProtectionTesting\BruteForceProtectionTesting.csproj", "{A7B53168-6797-43E2-8D08-5601A1951426}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{45146C62-DB1B-4815-9B36-6B1BE8AAA026}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{45146C62-DB1B-4815-9B36-6B1BE8AAA026}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{45146C62-DB1B-4815-9B36-6B1BE8AAA026}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A7B53168-6797-43E2-8D08-5601A1951426}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7B53168-6797-43E2-8D08-5601A1951426}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7B53168-6797-43E2-8D08-5601A1951426}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7B53168-6797-43E2-8D08-5601A1951426}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

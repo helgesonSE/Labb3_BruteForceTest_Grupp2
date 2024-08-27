@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = BruteForceExample
-build_property.ProjectDir = C:\Users\helge\OneDrive\Documents\GitHub\BruteForceExample\BruteForceExample\
+build_property.ProjectDir = C:\Users\helge\OneDrive\Documents\GitHub\Labb3_BruteForceTesting_Grupp2\BruteForceExample\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

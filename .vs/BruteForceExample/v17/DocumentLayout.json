@@ -1,9 +1,17 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\helge\\OneDrive\\Documents\\GitHub\\BruteForceExample\\",
+  "WorkspaceRootPath": "C:\\Users\\helge\\OneDrive\\Documents\\GitHub\\Labb3_BruteForceTesting_Grupp2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{45146C62-DB1B-4815-9B36-6B1BE8AAA026}|BruteForceExample\\BruteForceExample.csproj|c:\\users\\helge\\onedrive\\documents\\github\\bruteforceexample\\bruteforceexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A7B53168-6797-43E2-8D08-5601A1951426}|BruteForceProtectionTesting\\BruteForceProtectionTesting.csproj|c:\\users\\helge\\onedrive\\documents\\github\\labb3_bruteforcetesting_grupp2\\bruteforceprotectiontesting\\bruteforceprotectiontesting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7B53168-6797-43E2-8D08-5601A1951426}|BruteForceProtectionTesting\\BruteForceProtectionTesting.csproj|solutionrelative:bruteforceprotectiontesting\\bruteforceprotectiontesting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45146C62-DB1B-4815-9B36-6B1BE8AAA026}|BruteForceExample\\BruteForceExample.csproj|c:\\users\\helge\\onedrive\\documents\\github\\labb3_bruteforcetesting_grupp2\\bruteforceexample\\safetymeasure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45146C62-DB1B-4815-9B36-6B1BE8AAA026}|BruteForceExample\\BruteForceExample.csproj|solutionrelative:bruteforceexample\\safetymeasure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45146C62-DB1B-4815-9B36-6B1BE8AAA026}|BruteForceExample\\BruteForceExample.csproj|c:\\users\\helge\\onedrive\\documents\\github\\labb3_bruteforcetesting_grupp2\\bruteforceexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{45146C62-DB1B-4815-9B36-6B1BE8AAA026}|BruteForceExample\\BruteForceExample.csproj|solutionrelative:bruteforceexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -51,12 +59,38 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "BruteForceProtectionTesting.cs",
+              "DocumentMoniker": "C:\\Users\\helge\\OneDrive\\Documents\\GitHub\\Labb3_BruteForceTesting_Grupp2\\BruteForceProtectionTesting\\BruteForceProtectionTesting.cs",
+              "RelativeDocumentMoniker": "BruteForceProtectionTesting\\BruteForceProtectionTesting.cs",
+              "ToolTip": "C:\\Users\\helge\\OneDrive\\Documents\\GitHub\\Labb3_BruteForceTesting_Grupp2\\BruteForceProtectionTesting\\BruteForceProtectionTesting.cs",
+              "RelativeToolTip": "BruteForceProtectionTesting\\BruteForceProtectionTesting.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAqwBUAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T10:44:52.569Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SafetyMeasure.cs",
+              "DocumentMoniker": "C:\\Users\\helge\\OneDrive\\Documents\\GitHub\\Labb3_BruteForceTesting_Grupp2\\BruteForceExample\\SafetyMeasure.cs",
+              "RelativeDocumentMoniker": "BruteForceExample\\SafetyMeasure.cs",
+              "ToolTip": "C:\\Users\\helge\\OneDrive\\Documents\\GitHub\\Labb3_BruteForceTesting_Grupp2\\BruteForceExample\\SafetyMeasure.cs",
+              "RelativeToolTip": "BruteForceExample\\SafetyMeasure.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAAwC4AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T10:29:21.219Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\helge\\OneDrive\\Documents\\GitHub\\BruteForceExample\\BruteForceExample\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\helge\\OneDrive\\Documents\\GitHub\\Labb3_BruteForceTesting_Grupp2\\BruteForceExample\\Program.cs",
               "RelativeDocumentMoniker": "BruteForceExample\\Program.cs",
-              "ToolTip": "C:\\Users\\helge\\OneDrive\\Documents\\GitHub\\BruteForceExample\\BruteForceExample\\Program.cs",
+              "ToolTip": "C:\\Users\\helge\\OneDrive\\Documents\\GitHub\\Labb3_BruteForceTesting_Grupp2\\BruteForceExample\\Program.cs",
               "RelativeToolTip": "BruteForceExample\\Program.cs",
-              "ViewState": "AQIAABkAAAAAAAAAAAAgwCYAAAAcAAAA",
+              "ViewState": "AQIAABAAAAAAAAAAAAAmwAsAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-20T07:30:47.096Z",
               "EditorCaption": ""

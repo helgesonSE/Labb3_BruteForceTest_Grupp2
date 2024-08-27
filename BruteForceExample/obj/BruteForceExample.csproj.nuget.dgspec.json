@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\helge\\OneDrive\\Documents\\GitHub\\BruteForceExample\\BruteForceExample\\BruteForceExample.csproj": {}
+    "C:\\Users\\helge\\OneDrive\\Documents\\GitHub\\Labb3_BruteForceTesting_Grupp2\\BruteForceExample\\BruteForceExample.csproj": {}
   },
   "projects": {
-    "C:\\Users\\helge\\OneDrive\\Documents\\GitHub\\BruteForceExample\\BruteForceExample\\BruteForceExample.csproj": {
+    "C:\\Users\\helge\\OneDrive\\Documents\\GitHub\\Labb3_BruteForceTesting_Grupp2\\BruteForceExample\\BruteForceExample.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\helge\\OneDrive\\Documents\\GitHub\\BruteForceExample\\BruteForceExample\\BruteForceExample.csproj",
+        "projectUniqueName": "C:\\Users\\helge\\OneDrive\\Documents\\GitHub\\Labb3_BruteForceTesting_Grupp2\\BruteForceExample\\BruteForceExample.csproj",
         "projectName": "BruteForceExample",
-        "projectPath": "C:\\Users\\helge\\OneDrive\\Documents\\GitHub\\BruteForceExample\\BruteForceExample\\BruteForceExample.csproj",
+        "projectPath": "C:\\Users\\helge\\OneDrive\\Documents\\GitHub\\Labb3_BruteForceTesting_Grupp2\\BruteForceExample\\BruteForceExample.csproj",
         "packagesPath": "C:\\Users\\helge\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\helge\\OneDrive\\Documents\\GitHub\\BruteForceExample\\BruteForceExample\\obj\\",
+        "outputPath": "C:\\Users\\helge\\OneDrive\\Documents\\GitHub\\Labb3_BruteForceTesting_Grupp2\\BruteForceExample\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
