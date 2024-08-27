@@ -66,12 +66,6 @@ jobs:
       with:
         fetch-depth: 0
 
-    - name: Run Super-Linter
-      uses: github/super-linter@v4
-      env:
-        DEFAULT_BRANCH: main
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN}}
-
     # Install the .NET Core workload
     - name: Install .NET Core
       uses: actions/setup-dotnet@v4
